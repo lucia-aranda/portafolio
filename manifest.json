@@ -1,0 +1,27 @@
+{ 
+    "start_url": "/",
+    "short_name": "P-LCAG",  
+    "name": "Lucía Aranda",  
+    "description": "Portafolio web de Lucía Aranda (LCAG), desarrolladora de software multiplataforma.",  
+    "background_color": "#000000",  
+    "theme_color": "#000000",  
+    "orientation": "portrait",  
+    "display": "standalone",  
+    "icons":[
+      {  
+        "src": "img/lcag_1.png",  
+        "type": "image/png",  
+        "sizes": "192x192"
+      },
+      {
+        "src": "img/lcag_2.png",  
+        "type": "image/png",  
+        "sizes": "144x144"
+      },
+      {
+        "src": "img/lcag_3.png",  
+        "type": "image/png",  
+        "sizes": "48x48"
+      }
+    ] 
+  }
