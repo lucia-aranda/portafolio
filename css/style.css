@@ -10441,7 +10441,7 @@ h6,
       /* Posiciones aleatorias */
       /* MongoDB */
       .word:nth-child(1) { top: 10%; left: 30%; }
-      /* Testing */
+      /* Blender */
       .word:nth-child(2) { top: 30%; left: 20%; }
       /* MySQL */
       .word:nth-child(3) { top: 50%; left: 16%; }
@@ -10462,7 +10462,7 @@ h6,
       /* C++ */
       .word:nth-child(11) { top: 50%; left: 85%; }
       /* Laravel */
-      .word:nth-child(12) { top: 30%; left: 60%; }
+      .word:nth-child(12) { top: 30%; left: 70%; }
       /* Git */
       .word:nth-child(13) { top: 20%; left: 17%; }
       /* Java */
@@ -10472,7 +10472,7 @@ h6,
       /* React Native */
       .word:nth-child(16) { top: 80%; left: 10%; }
       /* PHP */
-      .word:nth-child(11) { top: 50%; left: 66%; }
+      .word:nth-child(17) { top: 50%; left: 69%; }
       /* Words end*/
 
       /* Card Information start */ 
