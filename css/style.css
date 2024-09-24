@@ -10461,18 +10461,20 @@ h6,
       .word:nth-child(10) { top: 60%; left: 60%; }
       /* C++ */
       .word:nth-child(11) { top: 50%; left: 85%; }
-      /* Flutter */
+      /* Laravel */
       .word:nth-child(12) { top: 30%; left: 60%; }
       /* Git */
       .word:nth-child(13) { top: 20%; left: 17%; }
       /* Java */
       .word:nth-child(14) { top: 40%; left: 10%; }
-      /* Laravel */
+      /* Flutter */
       .word:nth-child(15) { top: 70%; left: 77%; }
       /* React Native */
       .word:nth-child(16) { top: 80%; left: 10%; }
+      /* PHP */
+      .word:nth-child(11) { top: 50%; left: 66%; }
       /* Words end*/
-  
+
       /* Card Information start */ 
       .project-info {
       padding: 100px 40px;
