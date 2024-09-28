@@ -10473,6 +10473,8 @@ h6,
       .word:nth-child(16) { top: 80%; left: 10%; }
       /* PHP */
       .word:nth-child(17) { top: 50%; left: 69%; }
+      /* Godot */
+      .word:nth-child(18) { top: 20%; left: 6%; }
       /* Words end*/
 
       /* Card Information start */ 
