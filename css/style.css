@@ -10801,7 +10801,7 @@ video {
   position: absolute;
   width: 10px;
   height: 10px;
-  background: radial-gradient(circle, #00000000 50%, white 50%);
+  background: radial-gradient(circle, #00000000 50%, black 50%);
   border-radius: 50%;
   pointer-events: none;
   animation: fadeOut 1s forwards;
