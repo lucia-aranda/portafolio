@@ -18,7 +18,7 @@
 
 ## Pre-requisitos
 
-Para ejecutar el proyecto localmente, necesitas tener instalado un entorno de código en tu máquina:
+Para ejecutar el proyecto localmente, necesitas tener instalado un entorno de código en tu computadora:
 
 - `Visual Studio Code (u otro software similar)`
 
@@ -28,7 +28,7 @@ Esta extensión opcional (omítala si ya tiene un servidor virtual):
 Live Server de Ritwick Dey
 ```
 
-Y conexión a internet 🌐 para que funcione correctamente.
+Y conexión a internet 🌐 para que las librerías carguen correctamente.
 
 ## Concepto
 
