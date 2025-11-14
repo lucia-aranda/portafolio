@@ -40,7 +40,9 @@ Puedes explorar la estructura DOM, los estilos en línea y los comportamientos b
 
 ## Instalación
 
-Esta es una PWA, lo que significa que puedes instalarla desde el navegador en tu propio teléfono móvil 📱 o escritorio 💻, pulsando los tres puntos de la esquina superior derecha y buscando el botón de descarga.
+Esta es una PWA, lo que significa que puedes instalarla desde el navegador en tu propio teléfono móvil 📱 o escritorio 💻, buscando el botón de instalación en el menú del buscador.
+
+<img alt="CellPhone" src="img/download_cp.png" width="100px"><br><img alt="PersonalComputer" src="img/download_pc.png" width="100px">
 
 ## Contribución
 
@@ -48,4 +50,4 @@ Aunque este proyecto no está abierto a colaboradores, no dudes en enviarme un m
 
 ## Visualización rápida
 
-<img src="portafolio.gif">
+<img src="img/portafolio.gif">
