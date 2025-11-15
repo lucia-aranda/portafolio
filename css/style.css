@@ -10304,6 +10304,10 @@ h6,
     fill: #fff; /* SVG color on hover */
     }
 
+    #github:hover {
+    color: white;
+    }
+
     #codepen:hover svg {
     fill: #fff; /* SVG color on hover */
     }
