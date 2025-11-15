@@ -10304,6 +10304,10 @@ h6,
     fill: #fff; /* SVG color on hover */
     }
 
+    #codepen:hover svg {
+    fill: #fff; /* SVG color on hover */
+    }
+
     #indeed:hover {
     background-color: #2164f3 ;
     color: white;
